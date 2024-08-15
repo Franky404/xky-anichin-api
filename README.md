@@ -37,3 +37,6 @@ xky.anichinupdate()
      console.log(result)
 });
 ```
+## ```Result```
+
+<a href="##"><img title="xky-api" src="https://raw.githubusercontent.com/Franky404/xky-anichin-api/main/IMG-20240815-WA0058.jpg"></a>
