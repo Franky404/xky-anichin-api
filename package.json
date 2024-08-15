@@ -1,0 +1,26 @@
+{
+  "name": "Anichin Scraper List",
+  "version": "1.0.0",
+  "description": "Scraper List Donghua Terbaru",
+  "main": "node index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Franky404/Anichin-scraper.git"
+  },
+  "author": "Franky404",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Franky404/Anichin-scraper"
+  },
+  "homepage": "https://github.com/Franky404/Anichin-scraper#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.10"
+  },
+  "directories": {
+    "lib": "lib"
+  }
+}
