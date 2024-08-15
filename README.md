@@ -20,6 +20,10 @@
 >  
 > npm uninstall xky-api
 
+## ```Atau```
+> "xky-api" : "github:https://github.com/Franky404/xky-anichin-api.git
+>  
+
 
 ## ```Anichin List Update```
 ``` 
