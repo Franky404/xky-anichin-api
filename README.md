@@ -23,8 +23,9 @@
 
 ## ```Atau```
 ```
-> "xky-api" : "github:https://github.com/Franky404/xky-anichin-api.git
+"xky-api" : "github:https://github.com/Franky404/xky-anichin-api.git
 ```
+> Taruh di package.json lu
 
 
 ## ```Anichin List Update```
