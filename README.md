@@ -12,7 +12,7 @@
   <a href="https://github.com/Franky404"><img title="Author" src="https://img.shields.io/badge/Author-Franky404-red.svg?style=for-the-badge&logo=github" /></a>
 </p>
 <p align="center">
-<a href="#"><img title="mengapi" src="https://img.shields.io/static/v1?label=FREE&message=xky-api&color=pink"></a>
+<a href="#"><img title="mengapi" src="https://img.shields.io/static/v1?label=FREE&message=xky-api&color=blue"></a>
 </p>
 
 ## ```INSTALL And UNINSTALL```
